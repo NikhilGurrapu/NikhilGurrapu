@@ -48,12 +48,10 @@
 
 ###
 
-<div align="center">
+<div align="center"><header>
   <a href="https://www.linkedin.com/in/nikhil-gurrapu/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  
   <a href="https://www.youtube.com/channel/UCphhrem6cxq681KwOIwt75A"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
-  
-  <a href="https://medium.com/@nikhilgurrapu27"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
+  <a href="https://medium.com/@nikhilgurrapu27"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a></header>
 </div>
 
 
