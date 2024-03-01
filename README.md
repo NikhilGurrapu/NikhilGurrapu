@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nikhil</h2><br><br>
+<h2 align="left">Hi 👋! My name is Nikhil</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 </div>
 
 ###
-
+<br><br>
 <h3 align="left">I code with 🔥</h2>
 
 ###
@@ -43,7 +43,7 @@
 
 
 ###
-
+<br><br>
 <h3 align="left">My Social Media 🚀🤝</h2>
 
 ###
@@ -56,7 +56,7 @@
 
 
 ###
-
+<br><br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=NikhilGurrapu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
