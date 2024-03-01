@@ -2,8 +2,8 @@
 
 
 - Check out my resume/portfolio/website [http://nikhilgurrapu.com](http://nikhil-gurrapu.epizy.com/)
-- Watch me build stuff on YouTube Nikhil Gurrapu
-- Connect with me on LinkedIn.
+- Watch me build stuff on [YouTube](https://www.youtube.com/channel/UCphhrem6cxq681KwOIwt75A)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-gurrapu/)
 - Follow me here on GitHub for updates on my projects!
 <br>
 ###
