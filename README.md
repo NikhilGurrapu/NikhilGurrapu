@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is Nikhil</h2>
 
 
-*Check out my resume/portfolio/website http://nikhil-gurrapu.epizy.com/*
-*Watch me build stuff on YouTube Nikhil Gurrapu*
-*Connect with me on LinkedIn.*
-*Follow me here on GitHub for updates on my projects!*
+- Check out my resume/portfolio/website [http://nikhilgurrapu.com](http://nikhil-gurrapu.epizy.com/)
+- Watch me build stuff on YouTube Nikhil Gurrapu
+- Connect with me on LinkedIn.
+- Follow me here on GitHub for updates on my projects!
 <br>
 ###
 
